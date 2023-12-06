@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Mr Wei Lin"
+title                    : "Wei Lin"
 title_separator          : "-"
 name                     : &name "Wei Lin"
 description              : &description "PhD Researcher"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Lin"
+  name             : "Wei Lin / 林威"
   avatar           : "profile.png"
   bio              : "PhD Researcher"
   location         : "Cambridge, UK"
