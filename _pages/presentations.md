@@ -18,7 +18,7 @@ author_profile: true
 
 * Refined perception and management of ring-wise deformation for segmental linings using 3D deep learning and BIM
 
-  IALCCE 2023, Milan, 04/07/2023
+  Eighth International Symposium on Life-Cycle Civil Engineering (IALCCE 2023), Milan, 04/07/2023
 
 * Understanding tunnel point clouds using 3D deep learning
 
