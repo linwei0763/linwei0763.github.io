@@ -14,14 +14,22 @@ Experience
 * Visiting PhD Researcher, University of Cambridge, 04/2023 – Present
 * PhD Researcher, Tongji University, 03/2021 – Present
 * Laboratory Demonstrator, University of Cambridge, 10/2023 – 12/2023
-* Administritive Assistant, Tongji University, 09/2019 – 02/2021
+* Administrative Assistant, Tongji University, 09/2019 – 02/2021
 * Graduate Student, Tongji University, 09/2019 – 02/2021
 * Research Intern, Zhejiang Scientific Research Institute of Transport, 08/2022
 
 Education
 ======
-* University of Cambridge, Doctor of Engineering, 04/2023 – Present
-* Tongji University, Doctor of Engineering, 03/2021 – Present
+* University of Cambridge, PhD in Engineering, 04/2023 – Present
+
+  Supervisor: Brian Sheil
+  
+  Co-supervisor: Pin Zhang
+* Tongji University, PhD in Engineering, 03/2021 – Present
+
+  Supervisor: Xiongyao Xie
+  
+  Co-supervisor: Pan Li
 * Tongji University, Master of Engineering, 09/2019 – 02/2021
 * Tongji University, Bachelor of Engineering, 09/2015 – 07/2019
 
