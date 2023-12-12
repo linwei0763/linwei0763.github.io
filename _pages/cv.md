@@ -20,16 +20,12 @@ Experience
 
 Education
 ======
-* University of Cambridge, PhD in Engineering, 04/2023 – Present
-
-  Supervisor: Brian Sheil
-  
-  Co-supervisor: Pin Zhang
-* Tongji University, PhD in Engineering, 03/2021 – Present
-
-  Supervisor: Xiongyao Xie
-  
-  Co-supervisor: Pan Li
+* University of Cambridge, PhD in Engineering, 04/2023 – Present  
+  Supervisor: Brian Sheil  
+  Co-supervisor: Pin Zhang  
+* Tongji University, PhD in Engineering, 03/2021 – Present  
+  Supervisor: Xiongyao Xie  
+  Co-supervisor: Pan Li  
 * Tongji University, Master of Engineering, 09/2019 – 02/2021
 * Tongji University, Bachelor of Engineering, 09/2015 – 07/2019
 
