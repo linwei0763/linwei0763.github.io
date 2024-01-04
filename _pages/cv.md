@@ -11,9 +11,9 @@ redirect_from:
 
 Experience
 ======
+* Laboratory Demonstrator, University of Cambridge, 10/2023 – Present
 * Visiting PhD Researcher, University of Cambridge, 04/2023 – Present
 * PhD Researcher, Tongji University, 03/2021 – Present
-* Laboratory Demonstrator, University of Cambridge, 10/2023 – 12/2023
 * Administrative Assistant, Tongji University, 09/2019 – 02/2021
 * Graduate Student, Tongji University, 09/2019 – 02/2021
 * Research Intern, Zhejiang Scientific Research Institute of Transport, 08/2022
