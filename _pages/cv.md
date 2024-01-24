@@ -11,8 +11,8 @@ redirect_from:
 
 Experience
 ======
-* Laboratory Demonstrator, University of Cambridge, 10/2023 – Present
 * Visiting PhD Researcher, University of Cambridge, 04/2023 – Present
+* Laboratory Demonstrator, University of Cambridge, 10/2023 – Present
 * PhD Researcher, Tongji University, 03/2021 – Present
 * Administrative Assistant, Tongji University, 09/2019 – 02/2021
 * Graduate Student, Tongji University, 09/2019 – 02/2021
@@ -28,6 +28,7 @@ Education
   Co-supervisor: Pan Li  
 * Tongji University, Master of Engineering, 09/2019 – 02/2021
 * Tongji University, Bachelor of Engineering, 09/2015 – 07/2019
+* Putian No. 1 Middle School of Fujian Province, 09/2012 – 07/2015
 
 Honors & Awards
 ======
@@ -40,4 +41,4 @@ Honors & Awards
   
 Review
 ======
-* Underground Space (2)
+* Underground Space (3)
