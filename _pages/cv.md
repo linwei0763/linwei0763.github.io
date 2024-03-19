@@ -41,4 +41,6 @@ Honors & Awards
   
 Review
 ======
-* Underground Space (3 reviews)
+* Underground Space (3 reviews)  
+  
+[Download CV here](http://academicpages.github.io/files/CV.pdf)
