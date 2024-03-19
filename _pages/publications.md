@@ -15,7 +15,9 @@ Journal Papers
 4.	邹成路, 林威, 罗文静, 周彪, & 谢雄耀. (2022). 城市轨道交通车站半成岩深基坑围护结构变形特性研究. 城市轨道交通研究, 25(3), 150–155. https://doi.org/10.16037/j.1007-869x.2022.03.032. (PKU)  
 5.	谢雄耀, 林威, 周彪, & 邹成路. (2022). 半成岩超深基坑围护结构变形与受力特性研究. 结构工程师, 38(1), 164–172. https://doi.org/10.15935/j.cnki.jggcs.2022.01.019.  
 6.	梁小波, 林威, 徐金峰, 刘志义, & 赵刚. (2022). 滇中红层软岩填料高路堤稳定性分析. 建筑施工, 44(9), 2248–2251. https://doi.org/10.14144/j.cnki.jzsg.2022.09.068.  
-<a href="https://www.scimagojr.com/journalsearch.php?q=12246&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=12246" alt="SCImago Journal &amp; Country Rank"  /></a><a href="https://www.scimagojr.com/journalsearch.php?q=130124&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=130124" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100939600&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100939600" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=12246&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=12246" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=130124&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=130124" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 Conference Papers
 ======
