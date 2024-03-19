@@ -9,8 +9,7 @@ author_profile: true
 
 Journal Papers
 ======
-1.	Li, K., Xie, X., Zhou, B., Huang, C., Lin, W., Zhou, Y., & Wang, C. (2023). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space. https://doi.org/10.1016/j.undsp.2023.10.003. (SCIE, JCR Q1, IF 6.400)  
-<a href="https://www.scimagojr.com/journalsearch.php?q=14642&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=14642" alt="SCImago Journal &amp; Country Rank"  /></a>
+1.	Li, K., Xie, X., Zhou, B., Huang, C., Lin, W., Zhou, Y., & Wang, C. (2023). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space. https://doi.org/10.1016/j.undsp.2023.10.003. (SCIE, JCR Q1, IF 6.400)<a href="https://www.scimagojr.com/journalsearch.php?q=14642&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=14642" alt="SCImago Journal &amp; Country Rank"  /></a>
 2.	Lin, W., Li, P., Xie, X., Cao, Y., & Zhang, Y. (2023). A novel back-analysis approach for the external loads on shield tunnel lining in service based on monitored deformation. Structural Control and Health Monitoring, 2023, 8128701. https://doi.org/10.1155/2023/8128701. (SCIE, JCR Q1, IF 5.400)
 3.	Lin, W., Li, P., & Xie, X. (2022). A novel detection and assessment method for operational defects of pipe jacking tunnel based on 3D longitudinal deformation curve: A case study. Sensors, 22, 7648. https://doi.org/10.3390/s22197648 (SCIE, JCR Q2, IF 3.847)
 4.	邹成路, 林威, 罗文静, 周彪, & 谢雄耀. (2022). 城市轨道交通车站半成岩深基坑围护结构变形特性研究. 城市轨道交通研究, 25(3), 150–155. https://doi.org/10.16037/j.1007-869x.2022.03.032. (PKU)
