@@ -20,8 +20,8 @@ Presentations
 
 Posters
 ======
-* Prediction of settlement induced by tidal fluctuation for underwater shield tunnel during service based on historical monitoring data
-  2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE), Xi’an, 25–27/11/2022
+* Prediction of settlement induced by tidal fluctuation for underwater shield tunnel during service based on historical monitoring data  
+  2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE), Xi’an, 25–27/11/2022  
 
 
 
