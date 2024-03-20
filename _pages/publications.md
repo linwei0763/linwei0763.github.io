@@ -21,8 +21,8 @@ Journal Papers
 
 Conference Papers
 ======
-1.	Lin, W., Xie, X., Zhou, B., Li, P., & Wang, C. (2023). Refined perception and management of ring-wise deformation information for shield tunnels based on point cloud deep learning and BIM. Eighth International Symposium on Life-Cycle Civil Engineering (IALCCE 2023), 3991–3998. https://doi.org/10.1201/9781003323020-490. (EI, Presentation)
-2.	Lin, W., Xie, X., Li, P., Xiao, B., Lu, X., Feng, B., Jin, P., & Hu, Y. (2022). Prediction of settlement induced by tidal fluctuation for underwater shield tunnel during service based on historical monitoring data. 2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE), 1042–1047. https://doi.org/10.1109/ICHCE57331.2022.10042697. (EI, Poster)
+1.	Lin, W., Xie, X., Zhou, B., Li, P., & Wang, C. (2023). Refined perception and management of ring-wise deformation information for shield tunnels based on point cloud deep learning and BIM. Eighth International Symposium on Life-Cycle Civil Engineering (IALCCE 2023), 3991–3998. https://doi.org/10.1201/9781003323020-490. (EI)
+2.	Lin, W., Xie, X., Li, P., Xiao, B., Lu, X., Feng, B., Jin, P., & Hu, Y. (2022). Prediction of settlement induced by tidal fluctuation for underwater shield tunnel during service based on historical monitoring data. 2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE), 1042–1047. https://doi.org/10.1109/ICHCE57331.2022.10042697. (EI)
 
 Patents
 ======
