@@ -9,7 +9,7 @@ author_profile: true
 
 Journal Papers
 ======
-1.	Lin, W., Sheil, B., Zhang, P., Zhou, B., Wang, C., & Xie, X. (2024). Seg2Tunnel: A hierarchical point cloud dataset and benchmarks for segmentation of segmental tunnel linings. Tunnelling and Underground Space Technology Incorporating Trenchless Technology Research, 147, 105735. https://doi.org/10.1016/j.tust.2024.105735. (SCIE) 
+1.	Lin, W., Sheil, B., Zhang, P., Zhou, B., Wang, C., & Xie, X. (2024). Seg2Tunnel: A hierarchical point cloud dataset and benchmarks for segmentation of segmental tunnel linings. Tunnelling and Underground Space Technology, 147, 105735. https://doi.org/10.1016/j.tust.2024.105735. (SCIE) 
 2.	Li, K., Xie, X., Zhou, B., Huang, C., Lin, W., Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space, 17, 100–119. https://doi.org/10.1016/j.undsp.2023.10.003. (SCIE)
 3.	Lin, W., Li, P., Xie, X., Cao, Y., & Zhang, Y. (2023). A novel back-analysis approach for the external loads on shield tunnel lining in service based on monitored deformation. Structural Control and Health Monitoring, 2023, 8128701. https://doi.org/10.1155/2023/8128701. (SCIE)
 4.	Lin, W., Li, P., & Xie, X. (2022). A novel detection and assessment method for operational defects of pipe jacking tunnel based on 3D longitudinal deformation curve: A case study. Sensors, 22, 7648. https://doi.org/10.3390/s22197648 (SCIE)
