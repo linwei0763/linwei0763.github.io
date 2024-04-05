@@ -14,6 +14,9 @@ PI
 
 Researcher
 ======
+* Ministry of Science and Technology of the People’s Republic of China [2023YFC3806705]
+* Ministry of Science and Technology of the People’s Republic of China [2023YFC3806702]
+* Ministry of Science and Technology of the People’s Republic of China [2023YFC3806701]
 * Ministry of Science and Technology of the People’s Republic of China [2019YFC0605103]
 * Ministry of Science and Technology of the People’s Republic of China [2019YFC0605100]
 * National Natural Science Foundation of China [52378408]
@@ -23,5 +26,6 @@ Researcher
 * Science and Technology Commission of Shanghai Municipality [20DZ1202004]
 * Science and Technology Commission of Shanghai Municipality [2017SHZDZX02]
 * Department of Transport of Yunnan Province [2021-7]
+* State Grid Shanghai Municipal Electric Power Company [52090W23000B]
 * State Grid Shanghai Municipal Electric Power Company [52090W220001]
 * Guangzhou Metro Design & Research Institute Co., Ltd. [KY-B-2016-018]
