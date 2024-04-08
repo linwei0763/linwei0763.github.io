@@ -33,7 +33,7 @@ Honors & Awards
 * China Scholarship Council Scholarship, 07/2022
 * Shanghai Outstanding Graduate, 05/2019
 * China National Scholarship, 11/2017
-* Second Prize of National Zhou Peiyuan Competition on Mechanics, 06/2017
+* National Zhou Peiyuan Competition on Mechanics, Second Prize, 06/2017
 * Fluor Scholarship, 12/2016
 * Xu Aqiong Scholarship, 08/2015
 
