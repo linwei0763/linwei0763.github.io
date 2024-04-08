@@ -4,9 +4,9 @@ main:
     url: /publications/
   - title: "Activities"
     url: /activities/
-  - title: "Projects"
-    url: /projects/
   - title: "Supervision"
     url: /supervision/
+  - title: "Grants"
+    url: /grants/
   - title: "CV"
     url: /cv/
