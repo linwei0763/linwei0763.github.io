@@ -32,6 +32,7 @@ Education
 Honors & Awards
 ======
 * China Scholarship Council Scholarship, 07/2022
+* Engineering Construction Science and Technology Progress Award, Second Prize, 12/2021
 * Shanghai Outstanding Graduate, 05/2019
 * China National Scholarship, 11/2017
 * National Zhou Peiyuan Competition on Mechanics, Second Prize, 06/2017
