@@ -16,7 +16,6 @@ Experience
 * Visiting PhD Researcher, University of Cambridge, 04/2023 – 03/2024
 * Research Intern, Zhejiang Scientific Research Institute of Transport, 08/2022
 * Administrative Assistant, Tongji University, 09/2019 – 02/2021
-* Graduate Student, Tongji University, 09/2019 – 02/2021
 * Engineering Intern, Shanghai Tunnel Engineering Co., Ltd., 07/2018 – 08/2018
 
 Education
