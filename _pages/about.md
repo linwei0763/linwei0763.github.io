@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Wei Lin is a PhD researcher at Tongji University. His PhD thesis is aimed at the digital transformation of underground infrastructures.  
+Wei Lin is a PhD researcher at Tongji University. His PhD thesis is aimed at the digital transformation of underground infrastructures.
+
 In 2019, he earned his B.Eng. degree from Tongji University and was awarded Shanghai Outstanding Graduate. During 2023 and 2024, He worked as a visiting PhD researcher at the University of Cambridge for one year.
 
+Research interest: Underground infrastructure; Computer vision; Deep learning; Digital twin; Structural performance
