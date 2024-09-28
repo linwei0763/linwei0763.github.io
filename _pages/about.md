@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Research interest: Underground infrastructure; Computer vision; Deep learning; Digital twin; Structural performance
+Research interests: Underground infrastructure; Computer vision; Deep learning; Digital twin; Structural performance
 
 Wei Lin is a PhD researcher at Tongji University. His PhD thesis is aimed at the digital transformation of underground infrastructures.
 
