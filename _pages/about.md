@@ -16,6 +16,6 @@ Research interests
 ======
 Underground infrastructure; Computer vision; Deep learning; Digital twin; Structural performance
 
-<img src="images/research/segmentation.gif" width="600">
+<img src="images/research/segmentation.gif" width="769.59">
 
 
