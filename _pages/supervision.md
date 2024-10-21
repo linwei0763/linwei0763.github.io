@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* Tom Hill, University of Cambridge, fourth year project, 2024  
+* Tom Hill, University of Cambridge, fourth-year project, 2024  
   Supervisor: Dr. Brian Sheil  
   Co-supervisor: Wei Lin
 * Zeyu Wu, Tongji University, Bachelor thesis, 2023  

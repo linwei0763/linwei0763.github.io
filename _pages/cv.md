@@ -9,23 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+======
+* Tongji University, PhD in Engineering, 03/2021–Present  
+  Supervisor: Prof. Xiongyao Xie
+* University of Cambridge, PhD in Engineering (visiting), 04/2023–03/2024  
+  Supervisor: Dr. Brian Sheil
+* Tongji University, Master of Engineering, 09/2019–02/2021  
+  Supervisor: Prof. Xiongyao Xie
+* Tongji University, Bachelor of Engineering, 09/2015–07/2019
+* Putian No. 1 Middle School of Fujian Province, 09/2012–07/2015
+
 Experience
 ======
 * Laboratory Demonstrator, University of Cambridge, 10/2023–03/2024
 * Research Intern, Zhejiang Scientific Research Institute of Transport, 08/2022
 * Administrative Assistant, Tongji University, 09/2019–02/2021
 * Engineering Intern, Shanghai Tunnel Engineering Co., Ltd., 07/2018–08/2018
-
-Education
-======
-* Tongji University, PhD in Engineering, 03/2021–Present  
-  Supervisor: Prof. Xiongyao Xie
-* University of Cambridge, PhD in Engineering, 04/2023–03/2024  
-  Supervisor: Dr. Brian Sheil
-* Tongji University, Master of Engineering, 09/2019–02/2021  
-  Supervisor: Prof. Xiongyao Xie
-* Tongji University, Bachelor of Engineering, 09/2015–07/2019
-* Putian No. 1 Middle School of Fujian Province, 09/2012–07/2015
 
 Honors & Awards
 ======
@@ -43,4 +43,5 @@ Honors & Awards
 12.	Tongji Scholarship of Excellence, First Prize, 12/2016
 13.	Xu Aqiong Scholarship, 08/2015
 
-[Download CV here](https://linwei0763.github.io/files/CV.pdf)
+[Download CV here](https://linwei0763.github.io/files/cv.pdf)
+[下载简历](https://linwei0763.github.io/files/简历.pdf)
