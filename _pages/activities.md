@@ -16,6 +16,7 @@ Presentations
 4.	Refined perception and management of ring-wise deformation for segmental linings using 3D deep learning and BIM, Eighth International Symposium on Life-Cycle Civil Engineering (IALCCE 2023), Milan, 04/07/2023
 5.	The digital twin of shield tunnels for structural analysis, hyperTunnel, online, 05/05/2023
 6.	The digital twin of shield tunnels for structural analysis, Mott MacDonald, online, 27/04/2023
+
 (in Chinese)
 7.	用于大规模盾构隧道点云自动处理的计算机视觉技术, Shanghai Urban Construction Design and Research Institute (SUCDRI), Shanghai, 22/07/2024
 
