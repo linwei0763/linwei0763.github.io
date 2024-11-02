@@ -43,6 +43,6 @@ Honors & Awards
 12.	Tongji Scholarship of Excellence, First Prize, 12/2016
 13.	Xu Aqiong Scholarship, 08/2015
 
-[Download CV here](https://linwei0763.github.io/files/cv.pdf)
+[Download CV](https://linwei0763.github.io/files/cv.pdf)
 
 [下载简历](https://linwei0763.github.io/files/简历.pdf)
