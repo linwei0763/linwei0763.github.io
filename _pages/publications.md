@@ -22,7 +22,7 @@ Journal Papers (in English)
 
 (Submitted, under review, or accepted)
 6.	__Lin, W.__, Sheil, B., Zhang, P., Li, K., & Xie, X.\* (2024). LiningNet: Structural geometry informed 3D deep learning for segmentation of segmental tunnel lining point clouds. Automation in Construction. (Under review)
-7.	Ye, Z., __Lin, W.__, Faramarzi, A., Xie, X., & Ninić, J.\* (2024). SAM4Tun: No-training model for tunnel lining point cloud component segmentation. Tunnelling and Underground Space Technology. (Submitted)
+7.	Ye, Z., __Lin, W.__, Faramarzi, A., Xie, X., & Ninić, J.\* (2024). SAM4Tun: No-training model for tunnel lining point cloud component segmentation. Tunnelling and Underground Space Technology. (Under review)
 8.	Huang, H., Chang, J.\*, Zhang, D., Thewes, M., & __Lin, W.__ (2024). Improved model-free adaptive control of shield machine posture during tunnelling. Advanced Engineering Informatics. (Under review)
 
 Venues
