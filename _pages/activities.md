@@ -27,5 +27,6 @@ Posters
 
 Reviews
 ======
-1.	Tunnelling and Underground Space Technology, 5 reviews
-2.	Underground Space, 8 reviews
+1.	International Journal of Digital Earth, 1 review
+2.	Tunnelling and Underground Space Technology, 6 reviews
+3.	Underground Space, 9 reviews
