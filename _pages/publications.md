@@ -24,7 +24,7 @@ Journal Papers (in English)
 6.	__Lin, W.__, Sheil, B., Zhang, P., Chang, J., & Xie, X.\* (2024). Automated digital reconstruction of high-fidelity present-day geometries for segmental tunnel linings based on segmented point clouds. Tunnelling and Underground Space Technology. (Submitted)
 7.	__Lin, W.__, Zou, M., Zhao, M., Chang, J., Xie, X.\* (2024). Multi-fidelity machine learning for identifying thermal insulation integrity of liquefied natural gas storage tanks. Applied Sciences. (Accepted)
 8.	__Lin, W.__, Sheil, B., Zhang, P., Li, K., & Xie, X.\* (2024). LiningNet: Structural geometry informed 3D deep learning for segmentation of segmental tunnel lining point clouds. Automation in Construction. (Under review)
-9.	Ye, Z., __Lin, W.__, Faramarzi, A., Xie, X., & Ninić, J.\* (2024). SAM4Tun: No-training model for tunnel lining point cloud component segmentation. Tunnelling and Underground Space Technology. (Under review)
+9.	Ye, Z., __Lin, W.__, Faramarzi, A., Xie, X., & Ninić, J.\* (2024). SAM4Tun: No-training model for tunnel lining point cloud component segmentation. Tunnelling and Underground Space Technology. (Accepted)
 10.	Huang, H., Chang, J.\*, Zhang, D., Thewes, M., & __Lin, W.__ (2024). Improved model-free adaptive control of shield machine posture during tunnelling. Advanced Engineering Informatics. (Under review)
 
 Venues
