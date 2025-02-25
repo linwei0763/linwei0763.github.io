@@ -27,8 +27,8 @@ Journal Papers (in English)
 8.	__Lin, W.__, Zou, M., Zhao, M., Chang, J., Xie, X.\* (2024). Multi-fidelity machine learning for identifying thermal insulation integrity of liquefied natural gas storage tanks. Applied Sciences. (Accepted)
 9.	__Lin, W.__, Sheil, B., Zhang, P., Li, K., & Xie, X.\* (2024). LiningNet: Structural geometry informed 3D deep learning for segmentation of segmental tunnel lining point clouds. Automation in Construction. (Under review)
 10.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Submitted)
-10.	Jing, Y.\*, __Lin, W.__, Sheil, B., & Acikgoz, S. (2025). A 3D multimodal feature for infrastructure anomaly detection. Automation in Construction. (Under review)
-11.	Huang, H., Chang, J.\*, Zhang, D., Thewes, M., & __Lin, W.__ (2024). Improved model-free adaptive control of shield machine posture during tunnelling. Advanced Engineering Informatics. (Under review)
+11.	Jing, Y.\*, __Lin, W.__, Sheil, B., & Acikgoz, S. (2025). A 3D multimodal feature for infrastructure anomaly detection. Automation in Construction. (Under review)
+12.	Huang, H., Chang, J.\*, Zhang, D., Thewes, M., & __Lin, W.__ (2024). Improved model-free adaptive control of shield machine posture during tunnelling. Advanced Engineering Informatics. (Under review)
 
 Venues
 ======
