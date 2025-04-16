@@ -9,22 +9,23 @@ author_profile: true
 
 Journal Papers (in English)
 ======
-1.	__Lin, W.__, Sheil, B., Zhang, P., Zhou, B., Wang, C., & Xie, X.\* (2024). Seg2Tunnel: A hierarchical point cloud dataset and benchmarks for segmentation of segmental tunnel linings. Tunnelling and Underground Space Technology, 147, 105735. https://doi.org/10.1016/j.tust.2024.105735.
+1.	__Lin, W.__, Zou, M., Zhao, M., Chang, J., Xie, X.\* (2024). Multi-fidelity machine learning for identifying thermal insulation integrity of liquefied natural gas storage tanks. Applied Sciences, 15, 33. https://doi.org/10.3390/app15010033.
+<span class="__dimensions_badge_embed__" data-doi="10.3390/app15010033" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+2.	__Lin, W.__, Sheil, B., Zhang, P., Zhou, B., Wang, C., & Xie, X.\* (2024). Seg2Tunnel: A hierarchical point cloud dataset and benchmarks for segmentation of segmental tunnel linings. Tunnelling and Underground Space Technology, 147, 105735. https://doi.org/10.1016/j.tust.2024.105735.
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tust.2024.105735" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-2.	__Lin, W.__, Li, P.\*, Xie, X., Cao, Y., & Zhang, Y. (2023). A novel back-analysis approach for the external loads on shield tunnel lining in service based on monitored deformation. Structural Control and Health Monitoring, 2023, 8128701. https://doi.org/10.1155/2023/8128701.
+3.	__Lin, W.__, Li, P.\*, Xie, X., Cao, Y., & Zhang, Y. (2023). A novel back-analysis approach for the external loads on shield tunnel lining in service based on monitored deformation. Structural Control and Health Monitoring, 2023, 8128701. https://doi.org/10.1155/2023/8128701.
 <span class="__dimensions_badge_embed__" data-doi="10.1155/2023/8128701" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-3.	__Lin, W.__, Li, P.\*, & Xie, X. (2022). A novel detection and assessment method for operational defects of pipe jacking tunnel based on 3D longitudinal deformation curve: A case study. Sensors, 22, 7648. https://doi.org/10.3390/s22197648.
+4.	__Lin, W.__, Li, P.\*, & Xie, X. (2022). A novel detection and assessment method for operational defects of pipe jacking tunnel based on 3D longitudinal deformation curve: A case study. Sensors, 22, 7648. https://doi.org/10.3390/s22197648.
 <span class="__dimensions_badge_embed__" data-doi="10.3390/s22197648" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-4.	Ye, Z., __Lin, W.__, Faramarzi, A., Xie, X., & Ninić, J.\* (2025). SAM4Tun: No-training model for tunnel lining point cloud component segmentation. Tunnelling and Underground Space Technology, 158, 106401. https://doi.org/10.1016/j.tust.2025.106401.
+5.	Ye, Z., __Lin, W.__, Faramarzi, A., Xie, X., & Ninić, J.\* (2025). SAM4Tun: No-training model for tunnel lining point cloud component segmentation. Tunnelling and Underground Space Technology, 158, 106401. https://doi.org/10.1016/j.tust.2025.106401.
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tust.2025.106401" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-5.	Chang, J., Thewes, M., Zhang, D., Huang, H.\*, & __Lin, W.__ (2024). Deformational behaviors of existing three-line tunnels induced by under-crossing of three-line mechanized tunnels: A case study. Canadian Geotechnical Journal. https://doi.org/10.1139/cgj-2024-0359.
+6.	Chang, J., Thewes, M., Zhang, D., Huang, H.\*, & __Lin, W.__ (2024). Deformational behaviors of existing three-line tunnels induced by under-crossing of three-line mechanized tunnels: A case study. Canadian Geotechnical Journal. https://doi.org/10.1139/cgj-2024-0359.
 <span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2024-0359" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-6.	Li, K., Xie, X., Zhou, B.\*, Huang, C., __Lin, W.__, Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space, 17, 100–119. https://doi.org/10.1016/j.undsp.2023.10.003.
+7.	Li, K., Xie, X., Zhou, B.\*, Huang, C., __Lin, W.__, Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space, 17, 100–119. https://doi.org/10.1016/j.undsp.2023.10.003.
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.undsp.2023.10.003" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 (Submitted, under review, or accepted)
-7.	__Lin, W.__, Sheil, B., Zhang, P., Chang, J., & Xie, X.\* (2024). Automated digital reconstruction of high-fidelity present-day geometries for segmental tunnel linings based on segmented point clouds. Tunnelling and Underground Space Technology. (Under review)
-8.	__Lin, W.__, Zou, M., Zhao, M., Chang, J., Xie, X.\* (2024). Multi-fidelity machine learning for identifying thermal insulation integrity of liquefied natural gas storage tanks. Applied Sciences. (Accepted)
+8.	__Lin, W.__, Sheil, B., Zhang, P., Chang, J., & Xie, X.\* (2024). Automated digital reconstruction of high-fidelity present-day geometries for segmental tunnel linings based on segmented point clouds. Tunnelling and Underground Space Technology. (Under review)
 9.	__Lin, W.__, Sheil, B., Zhang, P., Li, K., & Xie, X.\* (2024). LiningNet: Structural geometry informed 3D deep learning for segmentation of segmental tunnel lining point clouds. Automation in Construction. (Under review)
 10.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Submitted)
 11.	Jing, Y.\*, __Lin, W.__, Sheil, B., & Acikgoz, S. (2025). A 3D multimodal feature for infrastructure anomaly detection. Automation in Construction. (Under review)
@@ -33,10 +34,11 @@ Journal Papers (in English)
 Venues
 ======
 <a href="https://www.scimagojr.com/journalsearch.php?q=14642&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=14642" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100939600&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100939600" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=22030&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=22030" alt="SCImago Journal &amp; Country Rank"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=12246&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=12246" alt="SCImago Journal &amp; Country Rank"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=130124&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=130124" alt="SCImago Journal &amp; Country Rank"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=22030&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=22030" alt="SCImago Journal &amp; Country Rank"  /></a>
-<a href="https://www.scimagojr.com/journalsearch.php?q=21100939600&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100939600" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100829268&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100829268" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 Journal Papers (in Chinese)
 ======
