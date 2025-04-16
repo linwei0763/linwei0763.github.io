@@ -9,7 +9,7 @@ author_profile: true
 
 Journal Papers (in English)
 ======
-1.	__Lin, W.__, Zou, M., Zhao, M., Chang, J., Xie, X.\* (2024). Multi-fidelity machine learning for identifying thermal insulation integrity of liquefied natural gas storage tanks. Applied Sciences, 15, 33. https://doi.org/10.3390/app15010033.
+1.	__Lin, W.__, Zou, M., Zhao, M., Chang, J., Xie, X.\* (2025). Multi-fidelity machine learning for identifying thermal insulation integrity of liquefied natural gas storage tanks. Applied Sciences, 15, 33. https://doi.org/10.3390/app15010033.
 <span class="__dimensions_badge_embed__" data-doi="10.3390/app15010033" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 2.	__Lin, W.__, Sheil, B., Zhang, P., Zhou, B., Wang, C., & Xie, X.\* (2024). Seg2Tunnel: A hierarchical point cloud dataset and benchmarks for segmentation of segmental tunnel linings. Tunnelling and Underground Space Technology, 147, 105735. https://doi.org/10.1016/j.tust.2024.105735.
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tust.2024.105735" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
