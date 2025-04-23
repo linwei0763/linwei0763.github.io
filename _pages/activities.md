@@ -28,7 +28,7 @@ Posters
 Reviews
 ======
 1.	Journal of Computing in Civil Engineering, 1 review
-2.	Measurement, 1 review
+2.	Measurement, 2 reviews
 3.	Automation in Construction, 2 reviews
 4.	International Journal of Digital Earth, 1 review
 5.	Tunnelling and Underground Space Technology, 8 reviews
