@@ -9,29 +9,31 @@ author_profile: true
 
 Journal Papers (in English)
 ======
-1.	__Lin, W.__, Zou, M., Zhao, M., Chang, J., Xie, X.\* (2025). Multi-fidelity machine learning for identifying thermal insulation integrity of liquefied natural gas storage tanks. Applied Sciences, 15, 33. https://doi.org/10.3390/app15010033.
+1.	__Lin, W.__, Sheil, B., Zhang, P., Li, K., & Xie, X.\* (2025). Structural geometry-informed 3D deep learning for segmental tunnel lining analysis in point clouds. Automation in Construction, 176, 106281. https://doi.org/10.1016/j.autcon.2025.106281.
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.autcon.2025.106281" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+2.	__Lin, W.__, Zou, M., Zhao, M., Chang, J., Xie, X.\* (2025). Multi-fidelity machine learning for identifying thermal insulation integrity of liquefied natural gas storage tanks. Applied Sciences, 15, 33. https://doi.org/10.3390/app15010033.
 <span class="__dimensions_badge_embed__" data-doi="10.3390/app15010033" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-2.	__Lin, W.__, Sheil, B., Zhang, P., Zhou, B., Wang, C., & Xie, X.\* (2024). Seg2Tunnel: A hierarchical point cloud dataset and benchmarks for segmentation of segmental tunnel linings. Tunnelling and Underground Space Technology, 147, 105735. https://doi.org/10.1016/j.tust.2024.105735.
+3.	__Lin, W.__, Sheil, B., Zhang, P., Zhou, B., Wang, C., & Xie, X.\* (2024). Seg2Tunnel: A hierarchical point cloud dataset and benchmarks for segmentation of segmental tunnel linings. Tunnelling and Underground Space Technology, 147, 105735. https://doi.org/10.1016/j.tust.2024.105735.
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tust.2024.105735" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-3.	__Lin, W.__, Li, P.\*, Xie, X., Cao, Y., & Zhang, Y. (2023). A novel back-analysis approach for the external loads on shield tunnel lining in service based on monitored deformation. Structural Control and Health Monitoring, 2023, 8128701. https://doi.org/10.1155/2023/8128701.
+4.	__Lin, W.__, Li, P.\*, Xie, X., Cao, Y., & Zhang, Y. (2023). A novel back-analysis approach for the external loads on shield tunnel lining in service based on monitored deformation. Structural Control and Health Monitoring, 2023, 8128701. https://doi.org/10.1155/2023/8128701.
 <span class="__dimensions_badge_embed__" data-doi="10.1155/2023/8128701" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-4.	__Lin, W.__, Li, P.\*, & Xie, X. (2022). A novel detection and assessment method for operational defects of pipe jacking tunnel based on 3D longitudinal deformation curve: A case study. Sensors, 22, 7648. https://doi.org/10.3390/s22197648.
+5.	__Lin, W.__, Li, P.\*, & Xie, X. (2022). A novel detection and assessment method for operational defects of pipe jacking tunnel based on 3D longitudinal deformation curve: A case study. Sensors, 22, 7648. https://doi.org/10.3390/s22197648.
 <span class="__dimensions_badge_embed__" data-doi="10.3390/s22197648" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-5.	Ye, Z., __Lin, W.__, Faramarzi, A., Xie, X., & Ninić, J.\* (2025). SAM4Tun: No-training model for tunnel lining point cloud component segmentation. Tunnelling and Underground Space Technology, 158, 106401. https://doi.org/10.1016/j.tust.2025.106401.
+6.	Ye, Z., __Lin, W.__, Faramarzi, A., Xie, X., & Ninić, J.\* (2025). SAM4Tun: No-training model for tunnel lining point cloud component segmentation. Tunnelling and Underground Space Technology, 158, 106401. https://doi.org/10.1016/j.tust.2025.106401.
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tust.2025.106401" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-6.	Chang, J., Thewes, M., Zhang, D., Huang, H.\*, & __Lin, W.__ (2024). Deformational behaviors of existing three-line tunnels induced by under-crossing of three-line mechanized tunnels: A case study. Canadian Geotechnical Journal. https://doi.org/10.1139/cgj-2024-0359.
+7.	Chang, J., Thewes, M., Zhang, D., Huang, H.\*, & __Lin, W.__ (2024). Deformational behaviors of existing three-line tunnels induced by under-crossing of three-line mechanized tunnels: A case study. Canadian Geotechnical Journal. https://doi.org/10.1139/cgj-2024-0359.
 <span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2024-0359" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-7.	Li, K., Xie, X., Zhou, B.\*, Huang, C., __Lin, W.__, Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space, 17, 100–119. https://doi.org/10.1016/j.undsp.2023.10.003.
+8.	Li, K., Xie, X., Zhou, B.\*, Huang, C., __Lin, W.__, Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space, 17, 100–119. https://doi.org/10.1016/j.undsp.2023.10.003.
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.undsp.2023.10.003" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 (Submitted, under review, or accepted)
-8.	Guan, Z., Liu, Y., Lin, Y., & __Lin, W.__\* (2025). Accurate measurement of segment dislocation for shield tunnel based on binocular vision technology. Journal of Computing in Civil Engineering. (Submitted)
-9.	__Lin, W.__, Sheil, B., Zhang, P., Chang, J., & Xie, X.\* (2024). Automated digital reconstruction of high-fidelity present-day geometries for segmental tunnel linings based on segmented point clouds. Tunnelling and Underground Space Technology. (Under review)
-10.	__Lin, W.__, Sheil, B., Zhang, P., Li, K., & Xie, X.\* (2024). Structural geometry-informed 3D deep learning for segmental tunnel lining analysis in point clouds. Automation in Construction. (Accepted)
-11.	Shi, Z., __Lin, W.__, Zeng, K., Bu, X., Xie, X.\* & Zhu, H. (2025). Dynamic deformation response of segment and interaction mechanisms of continuous construction in large-diameter shield tunnel: Analysis from multiple cases. Engineering Failure Analysis. (Submitted)
-12.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Under review)
-13.	Jing, Y.\*, __Lin, W.__, Sheil, B., & Acikgoz, S. (2025). A 3D multimodal feature for infrastructure anomaly detection. Automation in Construction. (Under review)
-14.	Huang, H., Chang, J.\*, Zhang, D., Thewes, M., & __Lin, W.__ (2024). Improved model-free adaptive control of shield machine posture during tunnelling. Advanced Engineering Informatics. (Under review)
+9.	Guan, Z., Liu, Y., Lin, Y., & __Lin, W.__\* (2025). Accurate measurement of segment dislocation for shield tunnel based on binocular vision technology. Journal of Computing in Civil Engineering. (Submitted)
+10.	__Lin, W.__, Sheil, B., Zhang, P., Chang, J., & Xie, X.\* (2024). Automated digital reconstruction of high-fidelity present-day geometries for segmental tunnel linings based on segmented point clouds. Tunnelling and Underground Space Technology. (Under review)
+11.	__Lin, W.__, Sheil, B., Zhang, P., Li, K., & Xie, X.\* (2024). Structural geometry-informed 3D deep learning for segmental tunnel lining analysis in point clouds. Automation in Construction. (Accepted)
+12.	Shi, Z., __Lin, W.__, Zeng, K., Bu, X., Xie, X.\* & Zhu, H. (2025). Failure evoluation mechanisms for continuous structure response in large-diameter shield tunnel: From the perspective of process state superposition. Structures. (Submitted)
+13.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Under review)
+14.	Jing, Y.\*, __Lin, W.__, Sheil, B., & Acikgoz, S. (2025). A 3D multimodal feature for infrastructure anomaly detection. Automation in Construction. (Under review)
+15.	Huang, H., Chang, J.\*, Zhang, D., Thewes, M., & __Lin, W.__ (2024). Improved model-free adaptive control of shield machine posture during tunnelling. Advanced Engineering Informatics. (Under review)
 
 Venues
 ======
