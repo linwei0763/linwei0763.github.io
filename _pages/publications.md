@@ -29,11 +29,10 @@ Journal Papers (in English)
 (Submitted, under review, or accepted)
 9.	Guan, Z., Liu, Y., Lin, Y., & __Lin, W.__\* (2025). Accurate measurement of segment dislocation for shield tunnel based on binocular vision technology. Journal of Computing in Civil Engineering. (Submitted)
 10.	__Lin, W.__, Sheil, B., Zhang, P., Chang, J., & Xie, X.\* (2024). Automated digital reconstruction of high-fidelity present-day geometries for segmental tunnel linings based on segmented point clouds. Tunnelling and Underground Space Technology. (Under review)
-11.	__Lin, W.__, Sheil, B., Zhang, P., Li, K., & Xie, X.\* (2024). Structural geometry-informed 3D deep learning for segmental tunnel lining analysis in point clouds. Automation in Construction. (Accepted)
-12.	Shi, Z., __Lin, W.__, Zeng, K., Bu, X., Xie, X.\* & Zhu, H. (2025). Failure evoluation mechanisms for continuous structure response in large-diameter shield tunnel: From the perspective of process state superposition. Structures. (Submitted)
-13.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Under review)
-14.	Jing, Y.\*, __Lin, W.__, Sheil, B., & Acikgoz, S. (2025). A 3D multimodal feature for infrastructure anomaly detection. Automation in Construction. (Under review)
-15.	Huang, H., Chang, J.\*, Zhang, D., Thewes, M., & __Lin, W.__ (2024). Improved model-free adaptive control of shield machine posture during tunnelling. Advanced Engineering Informatics. (Under review)
+11.	Shi, Z., __Lin, W.__, Zeng, K., Bu, X., Xie, X.\* & Zhu, H. (2025). Failure evoluation mechanisms for continuous structure response in large-diameter shield tunnel: From the perspective of process state superposition. Structures. (Submitted)
+12.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Under review)
+13.	Jing, Y.\*, __Lin, W.__, Sheil, B., & Acikgoz, S. (2025). A 3D multimodal feature for infrastructure anomaly detection. Automation in Construction. (Under review)
+14.	Huang, H., Chang, J.\*, Zhang, D., Thewes, M., & __Lin, W.__ (2024). Improved model-free adaptive control of shield machine posture during tunnelling. Advanced Engineering Informatics. (Under review)
 
 Venues
 ======
