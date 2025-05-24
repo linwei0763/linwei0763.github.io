@@ -63,6 +63,9 @@ Conference Papers
 2.	__Lin, W.__\*, Sheil, B., Xie, X., Li, K., & Niu, G. (2024). Segment segmentation of tunnel ring point clouds using 3D deep learning. World Tunnel Congress 2024, 3059–3066. https://doi.org/10.1201/9781003495505-406.
 3.	__Lin, W.__, Xie, X., Zhou, B., Li, P., & Wang, C. (2023). Refined perception and management of ring-wise deformation information for shield tunnels based on point cloud deep learning and BIM. Eighth International Symposium on Life-Cycle Civil Engineering (IALCCE 2023), 3991–3998. https://doi.org/10.1201/9781003323020-490.
 4.	__Lin, W.__, Xie, X.\*, Li, P., Xiao, B., Lu, X., Feng, B., Jin, P., & Hu, Y. (2022). Prediction of settlement induced by tidal fluctuation for underwater shield tunnel during service based on historical monitoring data. 2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE), 1042–1047. https://doi.org/10.1109/ICHCE57331.2022.10042697.
+5.	Ye, Z., Faramarzi, A., Ninić, J., & __Lin, W.__ (2025). Automated digital twin reconstruction for tunnel inspection and maintenance. World Tunnel Congress 2025, 517–524. https://doi.org/10.1201/9781003559047-67.
+6.	Cao, Y., Xie, X., Zhou, B., __Lin, W.__, Zhang, Y., & Tang, G. (2025). Effect of the crossing super-large-diameter shield tunnel construction on ground surface settlement. World Tunnel Congress 2025, 2029–2036. https://doi.org/10.1201/9781003559047-259.
+7.	Zhang, Y., Xie, X., __Lin, W.__, Cao, Y., & Tang, G. (2025). Electric power tunnel maintenance strategy based on structural performance chained evolutionary networks. World Tunnel Congress 2025, 4343–4349. https://doi.org/10.1201/9781003559047-553.
 
 Patents (in Chinese)
 ======
