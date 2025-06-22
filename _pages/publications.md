@@ -19,25 +19,27 @@ Journal Papers (in English)
 <span class="__dimensions_badge_embed__" data-doi="10.1155/2023/8128701" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 5.	__Lin, W.__, Li, P.\*, & Xie, X. (2022). A novel detection and assessment method for operational defects of pipe jacking tunnel based on 3D longitudinal deformation curve: A case study. Sensors, 22, 7648. https://doi.org/10.3390/s22197648.
 <span class="__dimensions_badge_embed__" data-doi="10.3390/s22197648" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-6.	Ye, Z., __Lin, W.__, Faramarzi, A., Xie, X., & Ninić, J.\* (2025). SAM4Tun: No-training model for tunnel lining point cloud component segmentation. Tunnelling and Underground Space Technology, 158, 106401. https://doi.org/10.1016/j.tust.2025.106401.
+6.	Huang, H., Chang, J.\*, Zhang, D., Thewes, M., & __Lin, W.__ (2025). Improved model-free adaptive control of shield machine posture during tunnelling. Advanced Engineering Informatics, 67, 103465. https://doi.org/10.1016/j.aei.2025.103465.
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.aei.2025.103465" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+7.	Ye, Z., __Lin, W.__, Faramarzi, A., Xie, X., & Ninić, J.\* (2025). SAM4Tun: No-training model for tunnel lining point cloud component segmentation. Tunnelling and Underground Space Technology, 158, 106401. https://doi.org/10.1016/j.tust.2025.106401.
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tust.2025.106401" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-7.	Chang, J., Thewes, M., Zhang, D., Huang, H.\*, & __Lin, W.__ (2024). Deformational behaviors of existing three-line tunnels induced by under-crossing of three-line mechanized tunnels: A case study. Canadian Geotechnical Journal. https://doi.org/10.1139/cgj-2024-0359.
+8.	Chang, J., Thewes, M., Zhang, D., Huang, H.\*, & __Lin, W.__ (2024). Deformational behaviors of existing three-line tunnels induced by under-crossing of three-line mechanized tunnels: A case study. Canadian Geotechnical Journal. https://doi.org/10.1139/cgj-2024-0359.
 <span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2024-0359" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-8.	Li, K., Xie, X., Zhou, B.\*, Huang, C., __Lin, W.__, Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space, 17, 100–119. https://doi.org/10.1016/j.undsp.2023.10.003.
+9.	Li, K., Xie, X., Zhou, B.\*, Huang, C., __Lin, W.__, Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space, 17, 100–119. https://doi.org/10.1016/j.undsp.2023.10.003.
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.undsp.2023.10.003" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 (Submitted, under review, or accepted)
-9.	Guan, Z., Liu, Y., Lin, Y., & __Lin, W.__\* (2025). Accurate measurement of segment dislocation for shield tunnel based on binocular vision technology. Journal of Computing in Civil Engineering. (Submitted)
-10.	__Lin, W.__, Sheil, B., Zhang, P., Chang, J., & Xie, X.\* (2024). Automated digital reconstruction of high-fidelity present-day geometries for segmental tunnel linings based on segmented point clouds. Tunnelling and Underground Space Technology. (Under review)
-11.	Shi, Z., __Lin, W.__, Zeng, K., Bu, X., Xie, X.\* & Zhu, H. (2025). Failure evoluation mechanisms for continuous structure response in large-diameter shield tunnel: From the perspective of process state superposition. Structures. (Submitted)
-12.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Under review)
-13.	Jing, Y.\*, __Lin, W.__, Sheil, B., & Acikgoz, S. (2025). A 3D multimodal feature for infrastructure anomaly detection. Automation in Construction. (Under review)
-14.	Huang, H., Chang, J.\*, Zhang, D., Thewes, M., & __Lin, W.__ (2024). Improved model-free adaptive control of shield machine posture during tunnelling. Advanced Engineering Informatics. (Under review)
+10.	Guan, Z., Liu, Y., Lin, Y., & __Lin, W.__\* (2025). Accurate measurement of segment dislocation for shield tunnel based on binocular vision technology. Journal of Computing in Civil Engineering. (Under review)
+11.	__Lin, W.__, Sheil, B., Zhang, P., Chang, J., & Xie, X.\* (2024). Automated digital reconstruction of high-fidelity present-day geometries for segmental tunnel linings based on segmented point clouds. Tunnelling and Underground Space Technology. (Under review)
+12.	Shi, Z., __Lin, W.__, Zeng, K., Bu, X., Xie, X.\* & Zhu, H. (2025). Failure evoluation mechanisms for continuous structure response in large-diameter shield tunnel: From the perspective of process state superposition. Applied Sciences. (Submitted)
+13.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Under review)
+14.	Jing, Y.\*, __Lin, W.__, Sheil, B., & Acikgoz, S. (2025). A 3D multimodal feature for infrastructure anomaly detection. Automation in Construction. (Under review)
 
 Venues
 ======
 <a href="https://www.scimagojr.com/journalsearch.php?q=24931&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=24931" alt="SCImago Journal &amp; Country Rank"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=14642&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=14642" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=23640&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23640" alt="SCImago Journal &amp; Country Rank"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=21100939600&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100939600" alt="SCImago Journal &amp; Country Rank"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=22030&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=22030" alt="SCImago Journal &amp; Country Rank"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=12246&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=12246" alt="SCImago Journal &amp; Country Rank"  /></a>
@@ -53,7 +55,7 @@ Journal Papers (in Chinese)
 5.	梁小波, __林威__, 徐金峰, 刘志义, & 赵刚. (2022). 滇中红层软岩填料高路堤稳定性分析. 建筑施工, 44(9), 2248–2251. https://doi.org/10.14144/j.cnki.jzsg.2022.09.068.
 
 (Submitted, under review, or accepted)
-6.	陈洪胜, 朱悦铭, 谢攀, __林威__\*, 邹美涛, & 谢雄耀. (2025). 基于蒙特卡罗dropout的土体开挖力学参数不确定性反演方法. 施工技术（中英文）. (Submitted)
+6.	陈洪胜, 朱悦铭, 谢攀, __林威__\*, 邹美涛, & 谢雄耀. (2025). 基于蒙特卡罗dropout的土体开挖力学参数不确定性反演方法. 施工技术（中英文）. (Under review)
 7.	吴庆杰, 张红伟, 陈少林, & __林威__\*. (2024). 基于计算机视觉的盾构隧道管片错台自动测量方法. 施工技术（中英文）. (Accepted)
 8.	张洋宾, 谢雄耀\*, 周彪, __林威__, 曹宇阳, 张列学, & 王承. (2024). 基于关联规则的盾构隧道结构性能评价方法. 同济大学学报（自然科学版）. (Accepted)
 
