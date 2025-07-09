@@ -22,7 +22,6 @@ Journal Papers (in English)
 
 (Submitted, under review, or accepted)
 1.	Guan, Z., Liu, Y., Lin, Y., & __Lin, W.__\* (2025). Accurate measurement of segment dislocation for shield tunnel based on binocular vision technology. Journal of Computing in Civil Engineering. (Under review)
-1.	Shi, Z., __Lin, W.__, Zeng, K., Bu, X., Xie, X.\* & Zhu, H. (2025). Failure evoluation mechanisms for continuous structure response in large-diameter shield tunnel: From the perspective of process state superposition. Applied Sciences. (Submitted)
 1.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Under review)
 1.	Jing, Y.\*, __Lin, W.__, Sheil, B., & Acikgoz, S. (2025). 3D multimodal feature for infrastructure anomaly detection. Automation in Construction. (Accepted)
 
