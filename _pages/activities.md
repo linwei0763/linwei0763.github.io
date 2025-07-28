@@ -27,7 +27,7 @@ Posters
 
 Reviews
 ======
-1.	Advanced Engineering Informatics, 1 review
+1.	Advanced Engineering Informatics, 2 reviews
 2.	Journal of Computing in Civil Engineering, 5 reviews
 3.	Measurement, 2 reviews
 4.	Automation in Construction, 3 reviews
