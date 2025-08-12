@@ -30,7 +30,7 @@ Reviews
 1.	Advanced Engineering Informatics, 2 reviews
 2.	Journal of Computing in Civil Engineering, 6 reviews
 3.	Measurement, 2 reviews
-4.	Automation in Construction, 3 reviews
+4.	Automation in Construction, 4 reviews
 5.	International Journal of Digital Earth, 1 review
 6.	Tunnelling and Underground Space Technology, 9 reviews
 7.	Underground Space, 9 reviews
