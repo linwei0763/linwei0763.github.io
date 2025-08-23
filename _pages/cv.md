@@ -18,7 +18,7 @@ Education
 * Tongji University, Master of Engineering, 09/2019–02/2021  
   Supervisor: Prof. Xiongyao Xie
 * Tongji University, Bachelor of Engineering, 09/2015–07/2019
-* Putian No. 1 Middle School of Fujian Province, 09/2012–07/2015
+* Putian No. 1 Middle School of Fujian Province, 09/2012–06/2015
 
 Experience
 ======
