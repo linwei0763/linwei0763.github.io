@@ -10,15 +10,16 @@ author_profile: true
 Presentations
 ======
 (in English)
+1.	Full-field deformation measurement of shield tunnels using point clouds and deep learning, 11th International Conference on Innovative Production and Construction (IPC2025), Nanchang, 07/08/2025
 1.	Semantic segmentation of large-scale segmental lining point clouds using 3D deep learning, GeoShanghai International Conference 2024, Shanghai, 27/05/2024
-2.	Computer vision for the segmentation of tunnel point clouds: Dataset and network, World Tunnel Congress 2024, Shenzhen, 24/04/2024
-3.	Understanding tunnel point clouds using 3D deep learning, Norwegian Geotechnical Institute, online, 01/11/2023
-4.	Refined perception and management of ring-wise deformation for segmental linings using 3D deep learning and BIM, Eighth International Symposium on Life-Cycle Civil Engineering (IALCCE 2023), Milan, 04/07/2023
-5.	The digital twin of shield tunnels for structural analysis, hyperTunnel, online, 05/05/2023
-6.	The digital twin of shield tunnels for structural analysis, Mott MacDonald, online, 27/04/2023
+1.	Computer vision for the segmentation of tunnel point clouds: Dataset and network, World Tunnel Congress 2024, Shenzhen, 24/04/2024
+1.	Understanding tunnel point clouds using 3D deep learning, Norwegian Geotechnical Institute, online, 01/11/2023
+1.	Refined perception and management of ring-wise deformation for segmental linings using 3D deep learning and BIM, Eighth International Symposium on Life-Cycle Civil Engineering (IALCCE 2023), Milan, 04/07/2023
+1.	The digital twin of shield tunnels for structural analysis, hyperTunnel, online, 05/05/2023
+1.	The digital twin of shield tunnels for structural analysis, Mott MacDonald, online, 27/04/2023
 
 (in Chinese)
-7.	用于大规模盾构隧道点云自动处理的计算机视觉技术, Shanghai Urban Construction Design and Research Institute (SUCDRI), Shanghai, 22/07/2024
+1.	用于大规模盾构隧道点云自动处理的计算机视觉技术, Shanghai Urban Construction Design and Research Institute (SUCDRI), Shanghai, 22/07/2024
 
 Posters
 ======
@@ -27,10 +28,10 @@ Posters
 
 Reviews
 ======
-1.	Advanced Engineering Informatics, 2 reviews
-2.	Journal of Computing in Civil Engineering, 5 reviews
+1.	Advanced Engineering Informatics, 3 reviews
+2.	Journal of Computing in Civil Engineering, 6 reviews
 3.	Measurement, 2 reviews
-4.	Automation in Construction, 3 reviews
+4.	Automation in Construction, 5 reviews
 5.	International Journal of Digital Earth, 1 review
 6.	Tunnelling and Underground Space Technology, 9 reviews
 7.	Underground Space, 9 reviews
