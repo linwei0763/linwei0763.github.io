@@ -24,14 +24,15 @@ Presentations
 Posters
 ======
 1.	Revealing high-fidelity and present-day geometry of segmental linings by AI, 11th International Symposium of Geotechnical Aspects of Underground Construction in Soft Ground (IS-Macau 2024), Macau, 14–17/06/2024
-2.	Prediction of settlement induced by tidal fluctuation for underwater shield tunnel during service based on historical monitoring data, 2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE), Xi’an, 25–27/11/2022
+1.	Prediction of settlement induced by tidal fluctuation for underwater shield tunnel during service based on historical monitoring data, 2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE), Xi’an, 25–27/11/2022
 
 Reviews
 ======
 1.	Advanced Engineering Informatics, 4 reviews
-2.	Journal of Computing in Civil Engineering, 6 reviews
-3.	Measurement, 2 reviews
-4.	Automation in Construction, 5 reviews
-5.	International Journal of Digital Earth, 1 review
-6.	Tunnelling and Underground Space Technology, 14 reviews
-7.	Underground Space, 9 reviews
+1.	Journal of Computing in Civil Engineering, 6 reviews
+1.	Measurement, 2 reviews
+1.	Automation in Construction, 5 reviews
+1.	International Journal of Digital Earth, 1 review
+1.	Tunnelling and Underground Space Technology, 14 reviews
+1.	Underground Space, 9 reviews
+1.	Scientific Reports, 1 review
