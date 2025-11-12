@@ -22,8 +22,9 @@ Journal Papers (in English)
 1.	Li, K., Xie, X., Zhou, B.\*, Huang, C., __Lin, W.__, Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space, 17, 100–119. https://doi.org/10.1016/j.undsp.2023.10.003. <span class="__dimensions_badge_embed__" data-doi="10.1016/j.undsp.2023.10.003" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 (Submitted, under review, or accepted)
-1.	Guan, Z., Liu, Y., Lin, Y., & __Lin, W.__\* (2025). Accurate measurement of segment dislocation for shield tunnel based on binocular vision technology. Journal of Computing in Civil Engineering. (Under review)
-1.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Under review)
+1.	Chang, J.-Q., Huang, H.-W., Yin, Z.-Y.\*, Zhang, D.-M., __Lin, W.__, & Zhang, N. (2025). Physics-informed machine learning method to predict displacement of existing tunnels induced by undercrossing construction. Tunnelling and Underground Space Technology. (Submitted)
+1.	Guan, Z., Liu, Y., Lin, Y., & __Lin, W.__\* (2025). Accurate measurement of segment dislocation for shield tunnel based on binocular vision technology. Journal of Computing in Civil Engineering. (Accepted)
+1.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Accepted)
 
 Venues
 ======
@@ -38,6 +39,7 @@ Venues
 
 Journal Papers (in Chinese)
 ======
+1.	吴庆杰, 张红伟, 陈少林, & __林威__\*. (2025). 基于计算机视觉的盾构隧道管片错台自动测量方法. 施工技术（中英文）, 54(17), 40–44. https://doi.org/10.7672/sgjs2025170040.
 1.	__林威__, 谢雄耀\*, 关振长, & 常佳奇. (2025). 基于改进标签编码和RandLA-Net的盾构隧道点云逐管片自动分割和变形提取算法. 中国公路学报.
 1.	张洋宾, 谢雄耀\*, 周彪, __林威__, 曹宇阳, 张列学, & 王承. (2025). 基于关联规则的盾构隧道结构性能评价方法. 同济大学学报（自然科学版）, 53(6), 888–897. https://doi.org/10.11908/j.issn.0253-374x.23372.
 1.	石州, 谢雄耀\*, 曾昆, 卜祥波, __林威__, & 徐子龙. (2025). 考虑过程响应的盾构隧道施工管片变形研究. 土木与环境工程学报（中英文）. https://doi.org/10.11835/j.issn.2096-6717.2025.006.
@@ -47,7 +49,6 @@ Journal Papers (in Chinese)
 
 (Submitted, under review, or accepted)
 1.	陈洪胜, 朱悦铭, 谢攀, __林威__\*, 邹美涛, & 谢雄耀. (2025). 基于蒙特卡罗dropout的土体开挖力学参数不确定性反演方法. 施工技术（中英文）. (Under review)
-1.	吴庆杰, 张红伟, 陈少林, & __林威__\*. (2024). 基于计算机视觉的盾构隧道管片错台自动测量方法. 施工技术（中英文）. (Accepted)
 
 Conference Papers
 ======
@@ -61,6 +62,7 @@ Conference Papers
 
 Patents (in Chinese)
 ======
+1.	陈洪胜, 谢攀, 朱悦铭, __林威__, 谢雄耀, & 唐亘跻. (2025). 基坑土体参数不确定性反演的神经网络方法及计算机系统 (Patent CN202510825034.2). (发明, 实质审查的生效)
 1.	谢雄耀, __林威__, & 唐亘跻. (2025). 一种用于隧道三维点云智能处理的神经网络构建装置及方法 (Patent CN202510484006.9). (发明, 实质审查的生效)
 1.	牛刚, 秦宝军, 周志广, 肖中林, 杨庆, 孙斌, 邓魏彬, 王亮, 马俊雨, __林威__, 周彪, & 谢雄耀. (2025). 一种基于点云特征深度学习的盾构隧道单环点云分割方法 (Patent CN202411358578.4). (发明, 实质审查的生效)
 1.	周应新, 谢雄耀, 周彪, __林威__, 张洋宾, 陈思晗, 徐泓睿, 钱正富, 曾维成, 杨俊宏, 唐能, 刘志义, 史明梅, 唐忠林, 胡兴云, 赵刚, & 叶朋果. (2022). 一种用于差异沉降控制的路堤水载预压反馈调节系统 (Patent CN202211150097.5). (发明, 实质审查的生效)

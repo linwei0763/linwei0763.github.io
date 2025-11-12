@@ -19,7 +19,8 @@ Presentations
 1.	The digital twin of shield tunnels for structural analysis, Mott MacDonald, online, 27/04/2023
 
 (in Chinese)
-1.	用于大规模盾构隧道点云自动处理的计算机视觉技术, Shanghai Urban Construction Design and Research Institute (SUCDRI), Shanghai, 22/07/2024
+1.	盾构隧道全空间结构变形智能感知, 2025 China Conference on Tunnel and Underground Construction and the 25th Annual Meeting of Tunnel and Underground Works Branch of China Civil Engineering Society, Hefei, 26/10/2025
+1.	用于大规模盾构隧道点云自动处理的计算机视觉技术, Shanghai Urban Construction Design and Research Institute, Shanghai, 22/07/2024
 
 Posters
 ======
