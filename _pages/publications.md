@@ -22,6 +22,7 @@ Journal Papers (in English)
 1.	Li, K., Xie, X., Zhou, B.\*, Huang, C., __Lin, W.__, Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space, 17, 100–119. https://doi.org/10.1016/j.undsp.2023.10.003. <span class="__dimensions_badge_embed__" data-doi="10.1016/j.undsp.2023.10.003" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 (Submitted, under review, or accepted)
+1.	Yang, W., __Lin, W.__, Jing, Y.\*, Hill, T., Wysocki, O., & Sheil, B. (2025). Tunnel Scanner: Geometry-informed synthetic point cloud generation and transfer learning for tunnel segmentation. Automation in Construction. (Submitted)
 1.	Chang, J.-Q., Huang, H.-W., Yin, Z.-Y.\*, Zhang, D.-M., __Lin, W.__, & Zhang, N. (2025). Physics-informed machine learning method to predict displacement of existing tunnels induced by undercrossing construction. Tunnelling and Underground Space Technology. (Submitted)
 1.	Guan, Z., Liu, Y., Lin, Y., & __Lin, W.__\* (2025). Accurate measurement of segment dislocation for shield tunnel based on binocular vision technology. Journal of Computing in Civil Engineering. (Accepted)
 1.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Accepted)
