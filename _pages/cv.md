@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Tongji University, PhD in Engineering, 03/2021–Present  
+* Tongji University, PhD in Engineering, 03/2021–09/2025  
   Supervisor: Prof. Xiongyao Xie
 * University of Cambridge, PhD in Engineering (visiting), 04/2023–03/2024  
   Supervisor: Dr. Brian Sheil
@@ -22,6 +22,7 @@ Education
 
 Experience
 ======
+* Associate Professor, Fuzhou University, 09/2025–Present
 * Laboratory Demonstrator, University of Cambridge, 10/2023–03/2024
 * Research Intern, Zhejiang Scientific Research Institute of Transport, 08/2022
 * Administrative Assistant, Tongji University, 09/2019–02/2021
