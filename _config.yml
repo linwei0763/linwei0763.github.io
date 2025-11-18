@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Wei Lin"
 title_separator          : "-"
 name                     : &name "Wei Lin"
-description              : &description "PhD Researcher"
+description              : &description "Wei Lin"
 url                      : https://linwei0763.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "linwei0763/linwei0763.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wei Lin (林威)"
   avatar           : "profile.png"
-  bio              : "PhD Researcher"
-  location         : "Shanghai, China"
+  bio              : "PhD in Engineering, Associate Professor"
+  location         : "Fuzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sqagIuoAAAAJ"
