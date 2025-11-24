@@ -29,11 +29,11 @@ Posters
 
 Reviews
 ======
-1.	Advanced Engineering Informatics, 4 reviews
-1.	Journal of Computing in Civil Engineering, 6 reviews
-1.	Measurement, 2 reviews
-1.	Automation in Construction, 5 reviews
-1.	International Journal of Digital Earth, 1 review
-1.	Tunnelling and Underground Space Technology, 14 reviews
-1.	Underground Space, 9 reviews
-1.	Scientific Reports, 1 review
+1.	Advanced Engineering Informatics
+1.	Journal of Computing in Civil Engineering
+1.	Measurement
+1.	Automation in Construction
+1.	International Journal of Digital Earth
+1.	Tunnelling and Underground Space Technology
+1.	Underground Space
+1.	Scientific Reports
