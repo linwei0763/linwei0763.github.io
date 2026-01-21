@@ -9,6 +9,7 @@ author_profile: true
 
 Journal Papers (in English)
 ======
+1.	Guan, Z., Liu, Y., Lin, Y., & __Lin, W.__\* (2025). Accurate measurement of segment dislocation for shield tunnel based on binocular vision technology. Journal of Computing in Civil Engineering, 40(3), 04026004. https://doi.org/10.1061/JCCEE5.CPENG-7135. <span class="__dimensions_badge_embed__" data-doi="10.1061/JCCEE5.CPENG-7135" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 1.	__Lin, W.__, Sheil, B., Zhang, P., Chang, J., & Xie, X.\* (2025). Automated digital reconstruction of high-fidelity present-day geometries for segmental tunnel linings based on segmented point clouds. Tunnelling and Underground Space Technology, 164, 106859. https://doi.org/10.1016/j.tust.2025.106859. <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tust.2025.106859" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 1.	__Lin, W.__, Sheil, B., Zhang, P., Li, K., & Xie, X.\* (2025). Structural geometry-informed 3D deep learning for segmental tunnel lining analysis in point clouds. Automation in Construction, 176, 106281. https://doi.org/10.1016/j.autcon.2025.106281. <span class="__dimensions_badge_embed__" data-doi="10.1016/j.autcon.2025.106281" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 1.	__Lin, W.__, Zou, M., Zhao, M., Chang, J., & Xie, X.\* (2025). Multi-fidelity machine learning for identifying thermal insulation integrity of liquefied natural gas storage tanks. Applied Sciences, 15, 33. https://doi.org/10.3390/app15010033. <span class="__dimensions_badge_embed__" data-doi="10.3390/app15010033" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -24,7 +25,6 @@ Journal Papers (in English)
 (Submitted, under review, or accepted)
 1.	Yang, W., __Lin, W.__, Jing, Y.\*, Hill, T., Wysocki, O., & Sheil, B. (2025). Tunnel Scanner: Geometry-informed synthetic point cloud generation and transfer learning for tunnel segmentation. Automation in Construction. (Submitted)
 1.	Chang, J.-Q., Huang, H.-W., Yin, Z.-Y.\*, Zhang, D.-M., __Lin, W.__, & Zhang, N. (2025). Physics-informed machine learning method to predict displacement of existing tunnels induced by undercrossing construction. Tunnelling and Underground Space Technology. (Submitted)
-1.	Guan, Z., Liu, Y., Lin, Y., & __Lin, W.__\* (2025). Accurate measurement of segment dislocation for shield tunnel based on binocular vision technology. Journal of Computing in Civil Engineering. (Accepted)
 1.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Accepted)
 
 Venues
@@ -35,6 +35,7 @@ Venues
 <a href="https://www.scimagojr.com/journalsearch.php?q=21100939600&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100939600" alt="SCImago Journal &amp; Country Rank"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=22030&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=22030" alt="SCImago Journal &amp; Country Rank"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=12246&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=12246" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=18643&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=18643" alt="SCImago Journal &amp; Country Rank"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=130124&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=130124" alt="SCImago Journal &amp; Country Rank"  /></a>
 <a href="https://www.scimagojr.com/journalsearch.php?q=21100829268&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100829268" alt="SCImago Journal &amp; Country Rank"  /></a>
 
