@@ -17,7 +17,7 @@ In 2019, he earned a B.Eng. degree from Tongji University and was awarded Shangh
 
 Research interests
 ======
-Computer vision; Deep learning; Digital twin; Structural performance assessment
+Three-dimensional laser scanning; Computer vision; Deep learning; Digital twin; Structural performance assessment
 
 <img src="images/research/segmentation.gif" width="769.59">
 
