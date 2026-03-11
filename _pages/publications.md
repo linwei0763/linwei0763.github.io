@@ -49,7 +49,7 @@ Journal Papers (in Chinese)
 1.	谢雄耀, __林威__, 周彪\*, & 邹成路. (2022). 半成岩超深基坑围护结构变形与受力特性研究. 结构工程师, 38(1), 164–172. https://doi.org/10.15935/j.cnki.jggcs.2022.01.019.
 1.	梁小波, __林威__, 徐金峰, 刘志义, & 赵刚. (2022). 滇中红层软岩填料高路堤稳定性分析. 建筑施工, 44(9), 2248–2251. https://doi.org/10.14144/j.cnki.jzsg.2022.09.068.
 
-(Submitted, under review, or accepted)
+(Submitted or accepted)
 1.	陈洪胜, 朱悦铭, 谢攀, __林威__\*, 邹美涛, & 谢雄耀. (2025). 基于蒙特卡罗dropout的土体开挖力学参数不确定性反演方法. 施工技术（中英文）. (Accepted)
 
 Conference Papers
