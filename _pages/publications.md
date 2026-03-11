@@ -22,9 +22,9 @@ Journal Papers (in English)
 1.	Chang, J., Thewes, M., Zhang, D., Huang, H.\*, & __Lin, W.__ (2025). Deformational behaviors of existing three-line tunnels induced by under-crossing of three-line mechanized tunnels: A case study. Canadian Geotechnical Journal, 62, 23. https://doi.org/10.1139/cgj-2024-0359. <span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2024-0359" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 1.	Li, K., Xie, X., Zhou, B.\*, Huang, C., __Lin, W.__, Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space, 17, 100–119. https://doi.org/10.1016/j.undsp.2023.10.003. <span class="__dimensions_badge_embed__" data-doi="10.1016/j.undsp.2023.10.003" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-(Submitted, under review, or accepted)
+(Submitted or accepted)
+1.	Chang, J.-Q., Huang, H.-W., Yin, Z.-Y.\*, Zhang, D.-M., __Lin, W.__, & Zhang, N. (2026). Physics-informed machine learning method to predict displacement of existing tunnels induced by undercrossing construction. Underground Space. (Submitted)
 1.	Yang, W., __Lin, W.__, Jing, Y.\*, Hill, T., Wysocki, O., & Sheil, B. (2025). Tunnel Scanner: Geometry-informed synthetic point cloud generation and transfer learning for tunnel segmentation. Automation in Construction. (Submitted)
-1.	Chang, J.-Q., Huang, H.-W., Yin, Z.-Y.\*, Zhang, D.-M., __Lin, W.__, & Zhang, N. (2025). Physics-informed machine learning method to predict displacement of existing tunnels induced by undercrossing construction. Tunnelling and Underground Space Technology. (Submitted)
 1.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Accepted)
 
 Venues
@@ -64,13 +64,19 @@ Conference Papers
 
 Patents (in Chinese)
 ======
-1.	陈洪胜, 谢攀, 朱悦铭, __林威__, 谢雄耀, & 唐亘跻. (2025). 基坑土体参数不确定性反演的神经网络方法及计算机系统 (Patent CN202510825034.2). (发明, 实质审查的生效)
-1.	谢雄耀, __林威__, & 唐亘跻. (2025). 一种用于隧道三维点云智能处理的神经网络构建装置及方法 (Patent CN202510484006.9). (发明, 实质审查的生效)
-1.	牛刚, 秦宝军, 周志广, 肖中林, 杨庆, 孙斌, 邓魏彬, 王亮, 马俊雨, __林威__, 周彪, & 谢雄耀. (2025). 一种基于点云特征深度学习的盾构隧道单环点云分割方法 (Patent CN202411358578.4). (发明, 实质审查的生效)
-1.	周应新, 谢雄耀, 周彪, __林威__, 张洋宾, 陈思晗, 徐泓睿, 钱正富, 曾维成, 杨俊宏, 唐能, 刘志义, 史明梅, 唐忠林, 胡兴云, 赵刚, & 叶朋果. (2022). 一种用于差异沉降控制的路堤水载预压反馈调节系统 (Patent CN202211150097.5). (发明, 实质审查的生效)
-1.	鲁正, 常佳奇, __林威__, & 宰秋锐. (2018). 可变阻尼铅芯橡胶阻尼器 (Patent CN201720597425.4). (发明, 授权)
-1.	鲁正, __林威__, 常佳奇, & 宰秋锐. (2018). 装配式建筑墙梁节点 (Patent CN201720597493.0). (实用新型, 授权)
-1.	鲁正, 宰秋锐, 常佳奇, & __林威__. (2018). 钢结构装配式建筑墙板节点 (Patent CN201720597425.4). (实用新型, 授权)
+1.	李向瑞, 关振长, 孙远方, __林威__, 宋成年, 何敬房, & 黄正业. (2026). 一种基于相关算法和数据融合的山岭隧道开挖面变形区域识别方法 (Patent No. CN202511732842.0). (发明授权)
+1.	__林威__, 关振长, 徐诗涵, 黄一韩, 林志城, & 许辉. (2026). 一种基于深度学习的山岭隧道开挖面渗漏水定量监测方法 (Patent No. CN202512026457.0). (发明申请)
+1.	__林威__, 关振长, 徐诗涵, 黄一韩, 林志城, & 许辉. (2026). 一种融合激光和视频数据的山岭隧道渗漏水实时监测方法 (Patent No. CN202511733577.8). (发明申请)
+1.	李向瑞, 关振长, 孙远方, __林威__, 宋成年, 何敬房, & 黄正业. (2026). 一种基于相关算法和数据融合的山岭隧道开挖面变形区域识别方法 (Patent No. CN202511732842.0). (发明申请)
+1.	施静康, 魏成凯, 关振长, __林威__, 骆剑彬, & 张鹤. (2026). 一种高灵敏度RFID贴片天线式应变传感器 (Patent No. CN202511598773.9). (发明申请)
+1.	施静康, 周博涵, 关振长, __林威__, 骆剑彬, & 张鹤. (2026). 一种基于改进的UNet探地雷达电导率和相对介电常数反演方法 (Patent No. CN202511479262.5). (发明申请)
+1.	陈洪胜, 谢攀, 朱悦铭, __林威__, 谢雄耀, & 唐亘跻. (2025). 基坑土体参数不确定性反演的神经网络方法及计算机系统 (Patent CN202510825034.2). (发明申请)
+1.	谢雄耀, __林威__, & 唐亘跻. (2025). 一种用于隧道三维点云智能处理的神经网络构建装置及方法 (Patent CN202510484006.9). (发明申请)
+1.	牛刚, 秦宝军, 周志广, 肖中林, 杨庆, 孙斌, 邓魏彬, 王亮, 马俊雨, __林威__, 周彪, & 谢雄耀. (2025). 一种基于点云特征深度学习的盾构隧道单环点云分割方法 (Patent CN202411358578.4). (发明申请)
+1.	周应新, 谢雄耀, 周彪, __林威__, 张洋宾, 陈思晗, 徐泓睿, 钱正富, 曾维成, 杨俊宏, 唐能, 刘志义, 史明梅, 唐忠林, 胡兴云, 赵刚, & 叶朋果. (2022). 一种用于差异沉降控制的路堤水载预压反馈调节系统 (Patent CN202211150097.5). (发明申请)
+1.	鲁正, 常佳奇, __林威__, & 宰秋锐. (2018). 可变阻尼铅芯橡胶阻尼器 (Patent CN201720597425.4). (发明授权)
+1.	鲁正, __林威__, 常佳奇, & 宰秋锐. (2018). 装配式建筑墙梁节点 (Patent CN201720597493.0). (实用新型授权)
+1.	鲁正, 宰秋锐, 常佳奇, & __林威__. (2018). 钢结构装配式建筑墙板节点 (Patent CN201720597425.4). (实用新型授权)
 
 Software (in Chinese)
 ======

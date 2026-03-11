@@ -30,19 +30,20 @@ Experience
 
 Honors & Awards
 ======
+1.	TUST Best Paper Awards 2024, 01/2026
 1.	GeoShanghai Prize for Service Award, 05/2024
-2.	China Scholarship Council Scholarship, 07/2022
-3.	Engineering Construction Science and Technology Progress Award, Second Prize, 12/2021
-4.	‘Zhangjiang Guoxin’an Cup’ BIM Modelling Competition, Third Prize, 09/2021
-5.	Tongji Excellent Student, 01/2021
-6.	Shanghai Outstanding Graduate, 05/2019
-7.	Tongji Excellent Student, 01/2019
-8.	Tongji Scholarship of Excellence, Second Prize, 12/2018
-9.	Tongji Excellent Student, 03/2018
-10.	China National Scholarship, 11/2017
-11.	National Zhou Peiyuan Competition on Mechanics, Second Prize, 06/2017
-12.	Tongji Scholarship of Excellence, First Prize, 12/2016
-13.	Xu Aqiong Scholarship, 08/2015
+1.	China Scholarship Council Scholarship, 07/2022
+1.	Engineering Construction Science and Technology Progress Award, Second Prize, 12/2021
+1.	‘Zhangjiang Guoxin’an Cup’ BIM Modelling Competition, Third Prize, 09/2021
+1.	Tongji Excellent Student, 01/2021
+1.	Shanghai Outstanding Graduate, 05/2019
+1.	Tongji Excellent Student, 01/2019
+1.	Tongji Scholarship of Excellence, Second Prize, 12/2018
+1.	Tongji Excellent Student, 03/2018
+1.	China National Scholarship, 11/2017
+1.	National Zhou Peiyuan Competition on Mechanics, Second Prize, 06/2017
+1.	Tongji Scholarship of Excellence, First Prize, 12/2016
+1.	Xu Aqiong Scholarship, 08/2015
 
 [Download CV](https://linwei0763.github.io/files/cv.pdf)
 
