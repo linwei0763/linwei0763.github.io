@@ -16,6 +16,7 @@ Journal Papers (in English)
 1.	__Lin, W.__, Sheil, B., Zhang, P., Zhou, B., Wang, C., & Xie, X.\* (2024). Seg2Tunnel: A hierarchical point cloud dataset and benchmarks for segmentation of segmental tunnel linings. Tunnelling and Underground Space Technology, 147, 105735. https://doi.org/10.1016/j.tust.2024.105735. <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tust.2024.105735" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 1.	__Lin, W.__, Li, P.\*, Xie, X., Cao, Y., & Zhang, Y. (2023). A novel back-analysis approach for the external loads on shield tunnel lining in service based on monitored deformation. Structural Control and Health Monitoring, 2023, 8128701. https://doi.org/10.1155/2023/8128701. <span class="__dimensions_badge_embed__" data-doi="10.1155/2023/8128701" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 1.	__Lin, W.__, Li, P.\*, & Xie, X. (2022). A novel detection and assessment method for operational defects of pipe jacking tunnel based on 3D longitudinal deformation curve: A case study. Sensors, 22, 7648. https://doi.org/10.3390/s22197648. <span class="__dimensions_badge_embed__" data-doi="10.3390/s22197648" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+1.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2026). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering, 7, e10. https://doi.org/10.1017/dce.2026.10042. <span class="__dimensions_badge_embed__" data-doi="10.1017/dce.2026.10042" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 1.	Jing, Y.\*, __Lin, W.__, Sheil, B., & Acikgoz, S. (2025). 3D multimodal feature for infrastructure anomaly detection. Automation in Construction, 178, 106388. https://doi.org/10.1016/j.autcon.2025.106388. <span class="__dimensions_badge_embed__" data-doi="10.1016/j.autcon.2025.106388" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 1.	Huang, H., Chang, J.\*, Zhang, D., Thewes, M., & __Lin, W.__ (2025). Improved model-free adaptive control of shield machine posture during tunnelling. Advanced Engineering Informatics, 67, 103465. https://doi.org/10.1016/j.aei.2025.103465. <span class="__dimensions_badge_embed__" data-doi="10.1016/j.aei.2025.103465" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 1.	Ye, Z., __Lin, W.__, Faramarzi, A., Xie, X., & Ninić, J.\* (2025). SAM4Tun: No-training model for tunnel lining point cloud component segmentation. Tunnelling and Underground Space Technology, 158, 106401. https://doi.org/10.1016/j.tust.2025.106401. <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tust.2025.106401" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -25,7 +26,6 @@ Journal Papers (in English)
 (Submitted or accepted)
 1.	Chang, J.-Q., Huang, H.-W., Yin, Z.-Y.\*, Zhang, D.-M., __Lin, W.__, & Zhang, N. (2026). Physics-informed machine learning method to predict displacement of existing tunnels induced by undercrossing construction. Underground Space. (Submitted)
 1.	Yang, W., __Lin, W.__, Jing, Y.\*, Hill, T., Wysocki, O., & Sheil, B. (2025). Tunnel Scanner: Geometry-informed synthetic point cloud generation and transfer learning for tunnel segmentation. Automation in Construction. (Submitted)
-1.	Zhang, R., __Lin, W.__, Wang, C., Sheil, B., Liu, Z., & Li, Z.\* (2025). Denoising image point clouds using segmentation and synthetic data for enhanced structural health analysis of tunnels. Data-Centric Engineering. (Accepted)
 
 Venues
 ======
@@ -64,9 +64,9 @@ Conference Papers
 
 Patents (in Chinese)
 ======
-1.	李向瑞, 关振长, 孙远方, __林威__, 宋成年, 何敬房, & 黄正业. (2026). 一种基于相关算法和数据融合的山岭隧道开挖面变形区域识别方法 (Patent No. CN202511732842.0). (发明授权)
 1.	__林威__, 关振长, 徐诗涵, 黄一韩, 林志城, & 许辉. (2026). 一种基于深度学习的山岭隧道开挖面渗漏水定量监测方法 (Patent No. CN202512026457.0). (发明申请)
 1.	__林威__, 关振长, 徐诗涵, 黄一韩, 林志城, & 许辉. (2026). 一种融合激光和视频数据的山岭隧道渗漏水实时监测方法 (Patent No. CN202511733577.8). (发明申请)
+1.	李向瑞, 关振长, 孙远方, __林威__, 宋成年, 何敬房, & 黄正业. (2026). 一种钻爆法隧道施工质量评估方法及系统 (Patent No. CN202511732842.0). (发明授权)
 1.	李向瑞, 关振长, 孙远方, __林威__, 宋成年, 何敬房, & 黄正业. (2026). 一种基于相关算法和数据融合的山岭隧道开挖面变形区域识别方法 (Patent No. CN202511732842.0). (发明申请)
 1.	施静康, 魏成凯, 关振长, __林威__, 骆剑彬, & 张鹤. (2026). 一种高灵敏度RFID贴片天线式应变传感器 (Patent No. CN202511598773.9). (发明申请)
 1.	施静康, 周博涵, 关振长, __林威__, 骆剑彬, & 张鹤. (2026). 一种基于改进的UNet探地雷达电导率和相对介电常数反演方法 (Patent No. CN202511479262.5). (发明申请)
