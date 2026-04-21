@@ -28,6 +28,7 @@ Posters
 
 Reviews
 ======
+1.	Engineering Applications of Artificial Intelligence
 1.	Advanced Engineering Informatics
 1.	Journal of Computing in Civil Engineering
 1.	Measurement
