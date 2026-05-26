@@ -16,6 +16,8 @@ Presentations
 1.	Refined perception and management of ring-wise deformation for segmental linings using 3D deep learning and BIM, Eighth International Symposium on Life-Cycle Civil Engineering (IALCCE 2023), Milan, 04/07/2023
 1.	The digital twin of shield tunnels for structural analysis, hyperTunnel, online, 05/05/2023
 1.	The digital twin of shield tunnels for structural analysis, Mott MacDonald, online, 27/04/2023
+1.	点云驱动隧道变形及渗漏智能感知方法与应用, 交通基础设施关键技术全国论坛暨第七届ICRE会议, Beijing, 23/05/2026
+1.	盾构隧道点云精细化变形感知方法及应用, 第四届山区土木工程学术论坛暨第八届土木工程赣江学术论坛, Nanchang, 17/05/2026
 1.	领域知识引导的盾构隧道点云深度学习网络设计与应用, 第八届国际地下空间学术大会, Zhuhai, 12/04/2026
 1.	AI赋能土木工程科研转型——以计算机视觉为例, 福建理工大学第七届土木工程研究生学术论坛，Fuzhou, 07/12/2025
 1.	盾构隧道全空间结构变形智能感知, 2025年隧道与地下工程大会暨中国土木工程学会隧道及地下工程分会第25届年会, Hefei, 26/10/2025

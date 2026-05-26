@@ -24,9 +24,6 @@ Journal Papers (in English)
 1.	Chang, J., Thewes, M., Zhang, D., Huang, H.\*, & __Lin, W.__ (2025). Deformational behaviors of existing three-line tunnels induced by under-crossing of three-line mechanized tunnels: A case study. Canadian Geotechnical Journal, 62, 23. https://doi.org/10.1139/cgj-2024-0359. <span class="__dimensions_badge_embed__" data-doi="10.1139/cgj-2024-0359" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 1.	Li, K., Xie, X., Zhou, B.\*, Huang, C., __Lin, W.__, Zhou, Y., & Wang, C. (2024). Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study. Underground Space, 17, 100–119. https://doi.org/10.1016/j.undsp.2023.10.003. <span class="__dimensions_badge_embed__" data-doi="10.1016/j.undsp.2023.10.003" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-(Submitted or accepted)
-1.	Chang, J.-Q., Huang, H.-W., Yin, Z.-Y.\*, Zhang, D.-M., __Lin, W.__, & Zhang, N. (2026). Physics-informed machine learning method to predict displacement of existing tunnels induced by undercrossing construction. Underground Space. (Submitted)
-
 Venues
 ======
 <a href="https://www.scimagojr.com/journalsearch.php?q=24931&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=24931" alt="SCImago Journal &amp; Country Rank"  /></a>
@@ -42,16 +39,13 @@ Venues
 
 Journal Papers (in Chinese)
 ======
+1.	__林威__, 谢雄耀\*, 关振长, & 常佳奇. (2026). 基于改进标签编码和RandLA-Net的盾构隧道点云逐管片自动分割和变形提取算法. 中国公路学报, 39(3), 424–437. https://link.cnki.net/urlid/61.1313.U.20250414.1536.008
 1.	吴庆杰, 张红伟, 陈少林, & __林威__\*. (2025). 基于计算机视觉的盾构隧道管片错台自动测量方法. 施工技术（中英文）, 54(17), 40–44. https://doi.org/10.7672/sgjs2025170040.
-1.	__林威__, 谢雄耀\*, 关振长, & 常佳奇. (2025). 基于改进标签编码和RandLA-Net的盾构隧道点云逐管片自动分割和变形提取算法. 中国公路学报. https://link.cnki.net/urlid/61.1313.U.20250414.1536.008
 1.	张洋宾, 谢雄耀\*, 周彪, __林威__, 曹宇阳, 张列学, & 王承. (2025). 基于关联规则的盾构隧道结构性能评价方法. 同济大学学报（自然科学版）, 53(6), 888–897. https://doi.org/10.11908/j.issn.0253-374x.23372.
 1.	石州, 谢雄耀\*, 曾昆, 卜祥波, __林威__, & 徐子龙. (2025). 考虑过程响应的盾构隧道施工管片变形研究. 土木与环境工程学报（中英文）, 47(5), 155–166. https://doi.org/10.11835/j.issn.2096-6717.2025.006.
 1.	邹成路, __林威__, 罗文静, 周彪\*, & 谢雄耀. (2022). 城市轨道交通车站半成岩深基坑围护结构变形特性研究. 城市轨道交通研究, 25(3), 150–155. https://doi.org/10.16037/j.1007-869x.2022.03.032.
 1.	谢雄耀, __林威__, 周彪\*, & 邹成路. (2022). 半成岩超深基坑围护结构变形与受力特性研究. 结构工程师, 38(1), 164–172. https://doi.org/10.15935/j.cnki.jggcs.2022.01.019.
 1.	梁小波, __林威__, 徐金峰, 刘志义, & 赵刚. (2022). 滇中红层软岩填料高路堤稳定性分析. 建筑施工, 44(9), 2248–2251. https://doi.org/10.14144/j.cnki.jzsg.2022.09.068.
-
-(Submitted or accepted)
-1.	陈洪胜, 朱悦铭, 谢攀, __林威__\*, 邹美涛, & 谢雄耀. (2025). 基于蒙特卡罗dropout的土体开挖力学参数不确定性反演方法. 施工技术（中英文）. (Accepted)
 
 Conference Papers
 ======
@@ -67,6 +61,11 @@ Patents (in Chinese)
 ======
 1.	__林威__, 关振长, 徐诗涵, 黄一韩, 林志城, & 许辉. (2026). 一种基于深度学习的山岭隧道开挖面渗漏水定量监测方法 (Patent No. CN202512026457.0). (发明申请)
 1.	__林威__, 关振长, 徐诗涵, 黄一韩, 林志城, & 许辉. (2026). 一种融合激光和视频数据的山岭隧道渗漏水实时监测方法 (Patent No. CN202511733577.8). (发明申请)
+1.	关振长, __林威__, 桂运全, & 李大俊. (2026). 一种用于盾构隧道结构状态分析的大模型代理系统及方法 (Patent No. CN202610061225.0). (发明申请)
+1.	关振长, 徐诗涵, __林威__, 黄一韩, 林志城, & 许辉. (2026). 基于机器视觉测量隧道掌子面渗漏过程的试验装置与方法 (Patent No. CN202512045689.0). (发明申请)
+1.	张鹤, 谢俊辉, 卓曦, 关振长, 骆剑彬, 施静康, __林威__, & 林俊德. (2026). 基于纯视觉输入和LLM决策的智能换道轨迹规划方法及系统 (Patent No. CN202610036632.6). (发明申请)
+1.	徐铭泽, 周红波, 林楠, 关振长, __林威__, & 林志城. (2026). 一种基于无人机摄影的楼面模板精确测量方法 (Patent No. CN202511886758.4). (发明申请)
+1.	施静康, 黄茂恩, 关振长, & __林威__. (2026). 一种基于字典学习融合监测数据的基坑围护结构侧移预测方法 (Patent No. CN202511896748.9). (发明申请)
 1.	李向瑞, 关振长, 孙远方, __林威__, 宋成年, 何敬房, & 黄正业. (2026). 一种钻爆法隧道施工质量评估方法及系统 (Patent No. CN202511732842.0). (发明授权)
 1.	李向瑞, 关振长, 孙远方, __林威__, 宋成年, 何敬房, & 黄正业. (2026). 一种基于相关算法和数据融合的山岭隧道开挖面变形区域识别方法 (Patent No. CN202511732842.0). (发明申请)
 1.	施静康, 魏成凯, 关振长, __林威__, 骆剑彬, & 张鹤. (2026). 一种高灵敏度RFID贴片天线式应变传感器 (Patent No. CN202511598773.9). (发明申请)
