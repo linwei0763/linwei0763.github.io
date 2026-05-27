@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-PI
-======
-
-
 Main researcher
 ======
 1.	Ministry of Science and Technology of the People’s Republic of China, 2023YFC3806705
