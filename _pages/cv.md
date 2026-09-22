@@ -30,6 +30,7 @@ Experience
 
 Honors & Awards
 ======
+1.	Tunnel Engineering Branch of the China Highway & Transportation Society Recommended Academic Paper 2026, 07/2026
 1.	TUST Best Paper Awards 2024, 01/2026
 1.	GeoShanghai Prize for Service Award, 05/2024
 1.	China Scholarship Council Scholarship, 07/2022
