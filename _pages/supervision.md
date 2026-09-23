@@ -7,14 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-* Tom Hill, University of Cambridge, fourth-year project, 2024  
-  Supervisor: Dr. Brian Sheil  
-  Co-supervisor: Wei Lin
-* Zeyu Wu, Tongji University, Bachelor thesis, 2023  
-  Research on intelligent early warning technology for parametric construction of deep foundation pit in soft soil in Shanghai  
-  Supervisor: Prof. Xiongyao Xie  
-  Co-supervisor: Wei Lin
-* Meitao Zou, Tongji University, Bachelor thesis, 2022  
-  Ultra-long underground expressway air-ground fusion refinement intelligent measurement and control technology  
-  Supervisor: Prof. Xiongyao Xie  
-  Co-supervisor: Wei Lin
+1.	Dexing Wang, Fuzhou University, Master's thesis, 2026–
+1.	Qingyi Zhu, Fuzhou University, Master's thesis, 2026–
+1.	Shihan Xu, Fuzhou University, Doctoral thesis, 2025–, co-supervisor
+1.	Zhicheng Lin, Fuzhou University, Master's thesis, 2024–, co-supervisor
+1.	Yihan Huang, Fuzhou University, Master's thesis, 2025–, co-supervisor
+1.	Tom Hill, University of Cambridge, Master's thesis, 2024, co-supervisor
+1.	Zeyu Wu, Tongji University, Bachelor’s thesis, 2023, co-supervisor
+1.	Meitao Zou, Tongji University, Bachelor’s thesis, 2022, co-supervisor
+

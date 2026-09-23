@@ -1,12 +1,12 @@
 # main links links
 main:
+  - title: "Grants"
+    url: /grants/
   - title: "Publications"
     url: /publications/
   - title: "Activities"
     url: /activities/
   - title: "Supervision"
     url: /supervision/
-  - title: "Grants"
-    url: /grants/
   - title: "CV"
     url: /cv/
