@@ -10,7 +10,7 @@ author_profile: true
 PI
 ======
 1.	National Natural Science Foundation of China, 52608635, 01/2027–12/2029
-1.	Fuzhou University, XRC-26012, 11/2025–10/2027
+1.	Fuzhou University, XRC-26012, 12/2025–11/2027
 1.	China Scholarship Council, 202206260174, 04/2023–03/2024
 1.	Shanghai Municipal Education Commission, 201710247118, 01/2017–01/2018
 
