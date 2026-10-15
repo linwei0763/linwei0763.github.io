@@ -28,7 +28,7 @@ Posters
 1.	Revealing high-fidelity and present-day geometry of segmental linings by AI, 11th International Symposium of Geotechnical Aspects of Underground Construction in Soft Ground (IS-Macau 2024), Macau, 14–17/06/2024
 1.	Prediction of settlement induced by tidal fluctuation for underwater shield tunnel during service based on historical monitoring data, 2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE), Xi’an, 25–27/11/2022
 
-Reviews
+Journal Reviews
 ======
 1. Expert Systems With Applications
 1.	Engineering Applications of Artificial Intelligence
@@ -40,3 +40,7 @@ Reviews
 1.	Tunnelling and Underground Space Technology
 1.	Underground Space
 1.	Scientific Reports
+
+Grant Reviews
+======
+1.	福建省政府投资项目评审（咨询）专家
